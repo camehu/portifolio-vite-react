@@ -1,0 +1,8 @@
+.port__contato{
+    display: flex;   
+    width: 100dvw;
+    height: 100dvh;
+    margin-top: 6rem;
+    justify-content: center;
+    color: beige;
+}

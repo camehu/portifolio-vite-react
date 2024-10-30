@@ -1,0 +1,8 @@
+.port__sobre{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    margin-top: 6rem;
+    color: beige;
+    justify-content: center;
+}

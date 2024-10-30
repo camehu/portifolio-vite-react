@@ -1,0 +1,11 @@
+.project{
+    display: flex;
+    width: 100dvw;
+    height: 100dvh;
+    margin-top: 6em;
+    justify-content: center;
+    color: azure;
+
+
+    
+}
